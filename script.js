@@ -1,6 +1,6 @@
 const byteSize = (str) => {
-	let s = new ([str],{type : "text/plain"});  
-	return s.size;
+	
+	return str.size;
 };
 
 Do not change the code below
